@@ -45,7 +45,7 @@ MSCS532_Assignment6/
 ├── selection_performance.py
 ├── elementary_data_structures.py
 ├── README.md
-└── report.md
+└── report.docx
 ```
 
 ## File Descriptions
@@ -85,7 +85,7 @@ Contains implementations of:
 
 The file also includes demonstrations of the main operations.
 
-### `report.md`
+### `report.docx`
 
 Contains:
 
